@@ -19,7 +19,7 @@ If your IDE does not automatically ask you to activate the newly created environ
 - In the terminal via `. .venv_docs/bin/activate`
 
 
-### Enabeling pre-commit
+### Enabling pre-commit
 
 Pre-commit is supported inside docs-as-code to help with code quality and make developers workflow easier.
 
